@@ -37,6 +37,6 @@
 
 ## 比賽過程
 
-[高涵毅](https://github.com/kevinhuang102888/big_data_competiton/blob/master/Cathay_big_data.ipynb)
-[苗鈺](https://github.com/kevinhuang102888/big_data_competiton/blob/master/T_Brain_exe.ipynb)
+[苗鈺](https://github.com/kevinhuang102888/big_data_competiton/blob/master/miao.ipynb)
+[高涵毅](https://github.com/kevinhuang102888/big_data_competiton/blob/master/T_Brain_exe.ipynb)
 
