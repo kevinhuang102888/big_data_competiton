@@ -1,5 +1,14 @@
 # 2019國泰大數據競賽
 
+***成員***：
+
+成功大學統計系二年級 高涵毅
+成功大學統計系二年級 苗鈺
+成功大學統計系二年級 劉米婷
+成功大學統計系二年級 黃科銓
+
+比賽時間：2019/9/11至2019/10/6
+
 ## 競賽說明
 
 透過機器學習的技術，找出潛在保險需求的顧客，並提供精準銷售名單給業務員。此問題為經典的「二元分類問題」，分析過去保險人的資訊，來預測保險人是否會繼續投保「重疾險保單」。
@@ -20,6 +29,6 @@ column說明:[說明檔](https://github.com/kevinhuang102888/big_data_competiton
 
 ## 比賽過程
 
-[高涵義](https://github.com/kevinhuang102888/big_data_competiton/blob/master/Cathay_big_data.ipynb)
+[高涵毅](https://github.com/kevinhuang102888/big_data_competiton/blob/master/Cathay_big_data.ipynb)
 [苗鈺](https://github.com/kevinhuang102888/big_data_competiton/blob/master/T_Brain_exe.ipynb)
 
