@@ -28,9 +28,12 @@
 
 特徵包括分為三種——「行銷方式及管道」、「對要保人、被保人的個人資料了解」、「保單資訊」。
 
-***資料檔案已附於此github***
+[train data](https://github.com/kevinhuang102888/big_data_competiton/blob/master/train.csv)
 
-column說明:[說明檔](https://github.com/kevinhuang102888/big_data_competiton/blob/master/layout.pdf)
+
+[test data](https://github.com/kevinhuang102888/big_data_competiton/blob/master/test.csv)
+
+[column說明](https://github.com/kevinhuang102888/big_data_competiton/blob/master/layout.pdf)
 
 ## 比賽過程
 
