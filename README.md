@@ -24,7 +24,7 @@
 
 分為「訓練資料集」和「測試資料集」。
 
-「訓練資料集」有10,000筆資料，共有132個特徵，但只有2000人有再去投保重疾險。
+「訓練資料集」有100,000筆資料，共有132個特徵，但只有2000人有再去投保重疾險。
 
 「測試資料集」有15,000筆資料，共有132個特徵，要預測保險人是否會再次投保。
 
@@ -39,6 +39,5 @@
 
 ## 比賽過程
 
-[苗鈺](https://github.com/kevinhuang102888/big_data_competiton/blob/master/miao.ipynb)
-[高涵毅](https://github.com/kevinhuang102888/big_data_competiton/blob/master/T_Brain_exe.ipynb)
-
+[程式1](https://github.com/kevinhuang102888/big_data_competiton/blob/master/miao.ipynb)
+[程式2](https://github.com/kevinhuang102888/big_data_competiton/blob/master/T_Brain_exe.ipynb)
